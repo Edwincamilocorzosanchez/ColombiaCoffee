@@ -9,7 +9,7 @@ Dylan Aldiver Rodriguez
 TAREAS
 
 
-Edwin Camilo Corzo Sanchez
+                Edwin Camilo Corzo Sanchez
 
 Coordinación y Backend Principal
 
@@ -26,7 +26,7 @@ Conexión a la base de datos con patrón Singleton.
 Documentación técnica del backend.
 
 
-Jose David Solano Rivero
+                Jose David Solano Rivero
 
 Frontend en Consola y Experiencia de Usuario
 
@@ -43,7 +43,7 @@ Vista previa de PDF antes de descarga.
 Documentación de uso del frontend.
 
 
-Dylan Aldiver Rodriguez
+                Dylan Aldiver Rodriguez
 
 
 Funcionalidades Extra y Generación de PDF
